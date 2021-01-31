@@ -14,7 +14,7 @@ driver=webdriver.Firefox()
 print("Enter the filename")
 filename=str(input())
 
-#enter the link of starting google map page to scrap
+#https://www.google.com/search?tbs=lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!1m4!1u16!2m2!16m1!1e1!1m4!1u16!2m2!16m1!1e2!2m1!1e2!2m1!1e16!2m1!1e3!3sIAE,lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk01oHwnkPHJqSfYYG6kHUVA_2cW1Ng:1612103736231&q=marketing%20agency%20in%20usa&rflfq=1&num=10&sa=X&ved=2ahUKEwibw6e0ssbuAhXBmuYKHUSNBvEQjGp6BAgCEFY&biw=1920&bih=937&rlst=f#rlfi=hd:;si:;mv:[[29.325622905405524,123.63917898523557],[9.55843841313825,82.33058523523559],null,[19.74699878271197,102.98488211023557],5]
 
 print("Enter the link of google map to scrap")
 url=str(input())
